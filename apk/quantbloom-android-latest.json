@@ -1,0 +1,12 @@
+{
+  "versionCode": 20,
+  "versionName": "1.0.20",
+  "commit": "919abf906c3734b2b2c835aae50d1ba3e93da7fa",
+  "builtAt": "2026-06-19T00:34:23Z",
+  "sha256": "42b19f0b05814ebef2ce8286a36de2cf52553a27e11d0a2fc07eafda73279dc3",
+  "size": 3230921,
+  "apkPath": "apk/quantbloom-android-latest.apk",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "downloadUrl": "https://raw.githubusercontent.com/henjiu-com/QuantBloom-release/main/apk/quantbloom-android-latest.apk"
+}
